@@ -385,7 +385,7 @@ with open(output_file_path, "w") as output_file:
         html_code = '''
             <article class="thumb">
                 <a href="https://k-4dc08c99-d200-427f-86bc-6111fa51e012.meson.sh/ipfs/bafybeiefmcfu5ro3fecrldr6uargauo5af5vmpbn2asvuhxlm2enure5pq/{0}" class="image">
-                    <img src="https://k-4dc08c99-d200-427f-86bc-6111fa51e012.meson.sh/ipfs/bafybeiefmcfu5ro3fecrldr6uargauo5af5vmpbn2asvuhxlm2enure5pq/{0}" alt="" />
+                    <img src="https://k-4dc08c99-d200-427f-86bc-6111fa51e012.meson.sh/ipfs/bafybeiefmcfu5ro3fecrldr6uargauo5af5vmpbn2asvuhxlm2enure5pq/{0}" alt="" loading="lazy" />
                 </a>
             </article>
         '''.format(image_filename)
