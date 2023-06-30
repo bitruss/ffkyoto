@@ -1,7 +1,6 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_fulls_loc: "https://k-4dc08c99-d200-427f-86bc-6111fa51e012.meson.sh/ipfs/bafybeiefmcfu5ro3fecrldr6uargauo5af5vmpbn2asvuhxlm2enure5pq/"
+image_thumbs_loc: "https://k-4dc08c99-d200-427f-86bc-6111fa51e012.meson.sh/ipfs/bafybeiefmcfu5ro3fecrldr6uargauo5af5vmpbn2asvuhxlm2enure5pq/"
 google_analytics: "UA-46465113-2"
 
 # UI configs
